@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400;700;900&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Sans', sans-serif;
+  text-decoration: none;
+}
+
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth !important;
+}
+
+body {
+  background-color: rgb(245, 245, 245);
+}
+
+/* a {
+  letter-spacing: 1.5px !important;
+  font-size: 0.6rem !important;
+  color: aliceblue;
+  font-weight: 600 !important;
+} */
